@@ -11,7 +11,8 @@ def argue(word)
 end
 
 def greeting(greeting, name)
-  return greeting, name 
+  #return greeting, name 
+  print "greeting, name!"
 end
 
 def return_a_value
